@@ -15,10 +15,10 @@ Management Consulting
 
 ### Table of Contents
 
-* **Task 1:** 
+* **Task 1: Create a Business Summary** 
 
-* **Task 2:** 
+* **Task 2: Create a Divestiture Interview Guide** 
 
-* **Task 3:** 
+* **Task 3: Qualitative Synergy Presentation** 
 
-* **Task 4:**  
+* **Task 4: Create a Simple Excel Model and Email Summary**

@@ -1,5 +1,5 @@
 # Project: 
-Introduction to Strategy Consulting
+Management Consulting 
 
 ### Project Overview
 * 

@@ -5,13 +5,13 @@ Management Consulting
 * PWC wants to determine if they should intiate the investigating and auditing of [COMPANY NAME] and its financials in order to assess whether they enter into a proposed transaction with the company. As a member of the consulting team we were tasked With compiling a business summary of [COMPANY NAME] which would then be used by the diligence team (also known as the auditing team) to determine if due diligence should be undertaken by PWC.
 * The business summary will consist of the following information:
 
-Company name and background.
+** Company name and background.
 
-Financials.
+** Financials.
 
-Key people (C-Suite) and products.
+** Key people (C-Suite) and products.
 
-Other information considered important.
+** Other information considered important.
 
 ### Project Tasks
 * **Diligence Target Investigation and Reporting:** Complete a business summary on diligence targets to inform the broader team of key target attributes and metrics such as revenue and profitability trends etc.

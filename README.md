@@ -5,8 +5,8 @@ Management Consulting
 * 
 
 ### Project Tasks
-* **:** Complete a business summarry on diligence targets to inform the broader team of key target attributes and metrics such as revenue and pr0fitability trends etc.
-* **Tema Preparation:** Prepare a business summary that will be presented to the target management team.
+* **Diligence Target Investigation and Reporting:** Complete a business summarry on diligence targets to inform the broader team of key target attributes and metrics such as revenue and pr0fitability trends etc.
+* **Team Preparation:** Prepare a business summary that will be presented to the target management team.
 * **Information Evaluation:** Determine which information would be valuable for to be included into the business summmary for the use of of the Diligence team.
  
 ### Tools and Technologies

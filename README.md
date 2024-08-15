@@ -1,4 +1,4 @@
- # Project:
+ # Project: Anglo American et al.
 Management Consulting
 
 ### Project Overview
@@ -11,9 +11,9 @@ Management Consulting
   *   Company Values, Mission/Strategy and Ethos/Culture
   *   Company Leadership/Executive
     
-* Task 3:
+* Task 3: The goal of this task was just to learn how to briefly put together a presentation of findings, in this instance for university students. I was tasked with identifying a merger or acquisition that took place and presenting the synergies of the two companies that have either merger or been acquired to showcase why the merger or acquisition would be successful.
  
-* Task 4:
+* Task 4: 
 
 ### Project Tasks
 * **Diligence Target Investigation and Reporting:** Complete a business summary (that will be presented to the target management team) on diligence targets to inform the broader team of key target attributes and metrics such as revenue and profitability trends etc.

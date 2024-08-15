@@ -1,4 +1,4 @@
- # Project: Anglo American et al.
+# Project: Anglo American et al.
 Management Consulting
 
 ### Project Overview
@@ -13,7 +13,7 @@ Management Consulting
     
 * Task 3: The goal of this task was just to learn how to briefly put together a presentation of findings, in this instance for university students. I was tasked with identifying a merger or acquisition that took place and presenting the synergies of the two companies that have either merger or been acquired to showcase why the merger or acquisition would be successful.
  
-* Task 4: 
+* Task 4: I was given some data belonging to a company that was considering acquiring a smaller regional company within the aerospace indusrty in order to increase the number of routes they can service daily. The partner also expects this deal to create opportunities for some exciting revenue and cost synergies. My responsibility in this task was to make a quick model based on the notes and data to give a directional sense of synergy potential and lastly with a clear and concise summary of the findings. Include a recommendation for the next steps at the end which would be sent to the partner.
 
 ### Project Tasks
 * **Diligence Target Investigation and Reporting:** Complete a business summary (that will be presented to the target management team) on diligence targets to inform the broader team of key target attributes and metrics such as revenue and profitability trends etc.

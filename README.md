@@ -18,7 +18,8 @@ Management Consulting
 ### Project Tasks
 * **Diligence Target Investigation and Reporting:** Complete a business summary (that will be presented to the target management team) on diligence targets to inform the broader team of key target attributes and metrics such as revenue and profitability trends etc.
 * **ConsumerTechco Divestiture Investigation:** Prepare an investigative interview question list for the CFO of a Tech company that is looking at selling a business unit.
-* **Information Evaluation:** Determine which information would be valuable to be included into the business summary for the use of the Diligence team.
+* **Investigation and Presentation:** Investigated a business acquisition, collected findings and put together a simplistic, surface level presentation fit for university students.
+* **Modelling and Email Summary:** Did a simplistic financial model for a company that was considering acquiring another company for business reasons and put together an email summary of the model and recommendations. 
 
 ### Table of Contents
 
